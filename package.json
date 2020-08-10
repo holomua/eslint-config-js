@@ -1,0 +1,21 @@
+{
+  "name": "eslint-config-holomua",
+  "version": "0.1.0",
+  "description": "JavaScript ESLint sharable config",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/holomua/eslint-config-js.git"
+  },
+  "keywords": [
+    "eslint",
+    "config",
+    "holomua"
+  ],
+  "author": "William West <wwest@holomua.dev>",
+  "license": "AGPL-3.0-only",
+  "bugs": {
+    "url": "https://github.com/holomua/eslint-config-js/issues"
+  },
+  "homepage": "https://github.com/holomua/eslint-config-js#readme"
+}
