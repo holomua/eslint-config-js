@@ -20,5 +20,8 @@
   "homepage": "https://github.com/holomua/eslint-config-js#readme",
   "dependencies": {
     "eslint": "^7.6.0"
+  },
+  "devDependencies": {
+    "prettier": "^2.0.5"
   }
 }
