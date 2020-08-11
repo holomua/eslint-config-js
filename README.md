@@ -1,4 +1,4 @@
-# eslint-config-js
+# eslint-config-holomua
 
 Shareable ESLint config.
 
