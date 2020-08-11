@@ -1,11 +1,11 @@
 module.exports = {
   extends: ["eslint:recommended"],
   parserOptions: {
-    sourceType: "module"
+    sourceType: "module",
   },
   env: {
     es2020: true,
-    node: true
+    node: true,
   },
   rules: {
     eqeqeq: "error",
@@ -35,6 +35,6 @@ module.exports = {
     "no-fallthrough": "error",
     "require-await": "error",
     "no-unused-expressions": "error",
-    "no-useless-call": "error"
-  }
+    "no-useless-call": "error",
+  },
 };
